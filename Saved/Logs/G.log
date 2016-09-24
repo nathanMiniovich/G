@@ -257,4 +257,47 @@ LogInit: Object subsystem initialized
 [2016.09.24-06.00.53:685][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
 [2016.09.24-06.00.53:693][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
 [2016.09.24-06.00.53:707][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2016.09.24-06.00.53:712][  0]LogUObjectGlobals:Warnin
+[2016.09.24-06.00.53:712][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.09.24-06.00.53:741][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.09.24-06.00.53:742][  0]LogLoad: (Engine Initialization) Total time: 7.40 seconds
+[2016.09.24-06.00.53:742][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.04 seconds
+[2016.09.24-06.00.53:742][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.09.24-06.00.53:742][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.09.24-06.00.53:759][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.24-06.00.53:759][  0]LogOcInput: OculusInput pre-init called
+[2016.09.24-06.00.53:780][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.09.24-06.00.53:931][  0]LogRenderer: Reallocating scene render targets to support 1004x460 (Frame:2).
+[2016.09.24-06.00.54:076][  1]LogAssetRegistry: Asset discovery search completed in 2.8865 seconds
+[2016.09.24-06.00.54:077][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2016.09.24-06.00.54:077][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000773 seconds (updated 0 objects)
+[2016.09.24-06.01.09:834][311]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2016.09.24-06.01.09:846][311]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2016.09.24-06.01.10:605][357]LogEditorActor: Deleted Actor: PlayerStart
+[2016.09.24-06.01.10:613][357]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2016.09.24-06.01.11:347][401]LogEditorActor: Deleted Actor: DirectionalLight
+[2016.09.24-06.01.11:353][401]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.09.24-06.01.12:095][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.24-06.01.12:101][445]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.09.24-06.01.12:817][488]LogEditorActor: Deleted Actor: AtmosphericFog
+[2016.09.24-06.01.12:823][488]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.09.24-06.01.35:368][828]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sphere)
+[2016.09.24-06.02.06:422][688]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2016.09.24-06.02.11:210][973]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.09.24-06.02.29:593][ 72]LogEditorViewport: Clicking Background
+[2016.09.24-06.02.31:029][157]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.09.24-06.02.38:330][592]LogEditorViewport: Clicking Background
+[2016.09.24-06.07.03:014][ 27]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2016.09.24-06.07.19:347][232]Running C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Nathan/Documents/unreal-projects/G/G.uproject" -game -rocket -progress
+[2016.09.24-06.07.20:750][232]Discovering modules, targets and source code for project...
+[2016.09.24-06.07.23:469][232]LogHotReload: Recompiling module G...
+[2016.09.24-06.07.23:470][232]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.09.24-06.07.23:480][232]Recompiling G...
+[2016.09.24-06.07.23:481][232]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe G -Module G Win64 Development -editorrecompile -canskiplink "C:/Users/Nathan/Documents/unreal-projects/G/G.uproject"  -2015]
+[2016.09.24-06.07.53:360][232]Creating makefile for hot reloading G (no existing makefile)
+Compiling game modules for hot reload
+Performing full C++ include scan (no include cache file)
+Parsing headers for GEditor
+  Running UnrealHeaderTool "C:\Users\Nathan\Documents\unreal-projects\G\G.uproject" "C:\Users\Nathan\Documents\unreal-projects\G\Intermediate\Build\Win64\GEditor\Development\GEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for GEditor in 2.6098378 seconds
+Performing 7 actions (4 in parallel)
+[2
